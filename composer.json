@@ -1,0 +1,40 @@
+{
+    "name": "divine/reserved-usernames",
+    "description": "Reserved usernames",
+    "keywords": [
+        "reserved-usernames"
+    ],
+    "homepage": "https://github.com/divine/reserved-usernames",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Divine",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Divine\\ReservedUsernames\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Divine\\ReservedUsernames\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
