@@ -28,7 +28,7 @@ $ru = new ReservedUsernames();
 // Get reserved username list
 $list = $ru->get();
 
-// Check reserved username, returns false on fail
+// Check reserved username, returns true on fail
 $check = $ru->check('account');
 
 ```
