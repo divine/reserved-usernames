@@ -1,7 +1,6 @@
 # Reserved usernames
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/divine/reserved-usernames.svg?style=flat-square)](https://packagist.org/packages/divine/reserved-usernames)
-[![Build Status](https://img.shields.io/travis/divine/reserved-usernames/master.svg?style=flat-square)](https://travis-ci.org/divine/reserved-usernames)
 [![Quality Score](https://img.shields.io/scrutinizer/g/divine/reserved-usernames.svg?style=flat-square)](https://scrutinizer-ci.com/g/divine/reserved-usernames)
 [![Total Downloads](https://img.shields.io/packagist/dt/divine/reserved-usernames.svg?style=flat-square)](https://packagist.org/packages/divine/reserved-usernames)
 
