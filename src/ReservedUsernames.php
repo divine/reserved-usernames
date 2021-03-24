@@ -4,7 +4,7 @@ namespace Divine\ReservedUsernames;
 
 class ReservedUsernames
 {
-    protected array $usernames = [
+    protected $usernames = [
         '123',
         '2015',
         '2016',
