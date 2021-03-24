@@ -957,7 +957,7 @@ class ReservedUsernames
 
     public function check(?string $username): ?bool
     {
-        return false !== in_array($username, $this->usernames);
+        return ! in_array($username, $this->usernames, true);
     }
 
 }
