@@ -222,6 +222,7 @@ class ReservedUsernames
         'company.wide',
         'compete',
         'competition',
+        'complaints',
         'compliance',
         'compras',
         'compta',
