@@ -2,6 +2,10 @@
 
 All notable changes to `reserved-usernames` will be documented in this file
 
+## 2.2.0 - 2021-03-24
+
+- Fix check logic
+
 ## 2.1.0 - 2021-03-24
 
 - Add strict check by @szepeviktor (#1)
